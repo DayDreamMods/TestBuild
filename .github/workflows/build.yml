@@ -24,7 +24,7 @@ jobs:
           dotnet-version: "8.0.203"
 
       - run: |
-          dotnet pack --Configuration Release
+          dotnet pack --configuration Release
 
       - name: Extract Artifact Matrix
         id: matrix-extraction
