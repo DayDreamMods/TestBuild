@@ -1,0 +1,3 @@
+[submodule "DotnetCommon"]
+	path = DotnetCommon
+	url = https://github.com/RedEyeMods/DotnetCommon
