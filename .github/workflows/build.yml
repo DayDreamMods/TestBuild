@@ -1,4 +1,4 @@
-name: "Auto Changelog"
+name: build
 
 on:
   push:
